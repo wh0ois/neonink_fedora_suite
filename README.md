@@ -1,4 +1,4 @@
-# neonink_fedora_suite
+# System Design and rand(bs)
 
 Pkg Managment: Enter interactive mode by ```python pkg_mgmt.py```
 ```
