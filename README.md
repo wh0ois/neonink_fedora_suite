@@ -1,6 +1,6 @@
 # neonink_fedora_suite
 
-Example 1: Enter interactive mode by ```python pkg_mgmt.py```
+Pkg Managment: Enter interactive mode by ```python pkg_mgmt.py```
 ```
 To search for packages, enter: search <query>
 To install a package, enter: install <package_name>
